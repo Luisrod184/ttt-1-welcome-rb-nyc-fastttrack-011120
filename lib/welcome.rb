@@ -1,2 +1,2 @@
-ruby lib/welcome.rb 
+lib/welcome.rb 
 Welcome to Tic Tac Toe 
